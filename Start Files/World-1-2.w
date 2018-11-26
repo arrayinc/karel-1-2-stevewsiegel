@@ -7,6 +7,7 @@ Wall: (4, 2) SOUTH
 Wall: (5, 1) WEST
 Wall: (6, 1) WEST
 Wall: (6, 2) SOUTH
-Karel: (1, 2) EAST
-BeeperBag: 2
+Beeper: (5, 1) 1
+Karel: (6, 2) EAST
+BeeperBag: 0
 Speed: 0.00
